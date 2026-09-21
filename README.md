@@ -3,7 +3,7 @@
 A single-page Task Management application built with **React**, **React Router v6**, and the **Context API**. This project demonstrates advanced routing concepts including nested routes, dynamic URL parameters, and protected routes.
 
 🚀 **Live Demo:** [https://taskmanager-wheat-nine.vercel.app/](https://taskmanager-wheat-nine.vercel.app/)  
-📁 **GitHub Repository:** [https://github.com/nilimeshbasu/task-manager](https://github.com/nilimeshbasu/task-manager)
+
 
 ---
 
@@ -48,8 +48,3 @@ A single-page Task Management application built with **React**, **React Router v
 ## 🚀 Local Setup & Installation
 
 To run this project locally on your machine:
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/nilimeshbasu/task-manager.git](https://github.com/nilimeshbasu/task-manager.git)
-   cd task-manager
